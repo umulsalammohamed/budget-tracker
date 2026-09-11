@@ -1,1 +1,2 @@
-# budget-tracker
+# My Budget Tracker Week 2
+I replaced No expenses yet with table using thead tbody tr th td - 5 rows Lunch Matatu Rent Netflix Books. Form uses select with 5 options Food Transport Rent Entertainment Other, wrapped in form, button type button, IDs expense-name amount category date. Added img logo with src alt width and iframe YouTube video with width height title frameborder. CSS has border-collapse padding colored header nth-child even hover cursor pointer and 4 advanced selectors attribute hover nth-child focus.
